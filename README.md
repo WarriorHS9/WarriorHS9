@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nick, I am 16 y.o
+- 👀 I’m interested in python, basketball 
+- 📫 How to reach me ----> instagram: nick99_adm
