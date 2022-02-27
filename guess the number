@@ -1,0 +1,12 @@
+import random
+print('Guess the number that computer gave')
+comp = random.randint(0, 10)
+while True:
+    numb = int(input('Introduce one number: '))
+    if comp == numb:
+        print('U guessed')
+        break
+    elif comp > numb:
+        print('Take higher')
+    elif comp < numb:
+        print('Take lower')
